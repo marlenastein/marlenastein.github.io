@@ -4,7 +4,7 @@
 
 I am an editor for [_The Brown and White_](https://thebrownandwhite.com/?s=marlena+stein)
 
-![My picture](https://github.com/marlenastein/marlenastein.github.io/blob/main/Stein%20Marlena%20mug%20fa23%20001.JPG?raw=true)
+![My picture](https://github.com/marlenastein/marlenastein.github.io/blob/main/Stein%20Marlena%20mug%20fa23%20001.JPG?raw=true=100x20)
 
 Student Enrollment at Lehigh in 2022 by State
 ![Enrollment](https://github.com/marlenastein/marlenastein.github.io/blob/main/Enrollment.png?raw=true)
