@@ -12,4 +12,6 @@ I am an editor for [_The Brown and White_](https://thebrownandwhite.com/?s=marle
 This data shows the data of student enrollment at Lehigh categorized by state. The data is organized by four regions - Pennsylvania, New York/New Jersey, Other States and International. The data shows that over 90% of students are from the United States, and 60% are from either Pennsylvania, New York or New Jersey. From these results, we can see that a majority of Lehigh Students are local to the Bethlehem area. (https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2022.pdf)
 
 ## Successfully Completed Jumps in 2022 Male Figuring Skating Olympics
-!
+![Skating](https://github.com/marlenastein/marlenastein.github.io/blob/main/Skating.png?raw=true)
+
+https://www.nytimes.com/interactive/2022/02/10/sports/olympics/nathan-chen-jumps.html
