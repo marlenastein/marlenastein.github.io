@@ -15,3 +15,6 @@ This data shows the data of student enrollment at Lehigh categorized by state. T
 ![Skating](https://github.com/marlenastein/marlenastein.github.io/blob/main/Skating.png?raw=true)
 
 In the article "How Nathan Chen Won Gold in Men's Figure Skating" by The New York Times, the authors discuss the performances from the top male figure skaters at the 2022 Olympic Games in Beijing. One of the catagorizes the skaters were compared by was the number of successfully completed jumps in each of their routines. According to their data, Nathan Chen had the most successfully completed jumps in his skating routine. While Chen had 10 successful jumps, his opponents only had between six and nine successful jumps during their routines. Additionally, completed jumps raise a skater's score, while an incomplete jump lower their overall score of their routine. Since Chen had the most successfully completed jumps compared to his opponents, this helped Chen come in first place and led to his win of the gold medal. (https://www.nytimes.com/interactive/2022/02/10/sports/olympics/nathan-chen-jumps.html)
+
+## Lehigh-Lafayette Rivalry Timeless
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G284o63ZxEj6er-yeWLIqiXg97Y1jQc2zsNi26TUI_0&font=Default&lang=en&initial_zoom=2&height=650
