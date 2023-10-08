@@ -18,3 +18,6 @@ In the article "How Nathan Chen Won Gold in Men's Figure Skating" by The New Yor
 
 ## Lehigh-Lafayette Rivalry Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G284o63ZxEj6er-yeWLIqiXg97Y1jQc2zsNi26TUI_0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## History of Lehigh University Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bozgsWNBp0IwY7brpVfMHMFNPTzPUiCU6i3o7Gy5fBY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
