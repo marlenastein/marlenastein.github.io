@@ -24,3 +24,7 @@ In the article "How Nathan Chen Won Gold in Men's Figure Skating" by The New Yor
 
 ## Percentages of Students per College in 2021
 ![College Percentages](https://github.com/marlenastein/marlenastein.github.io/blob/main/collegepercentages.png?raw=true)
+
+## Most Streamed Songs on Spotify
+![Spotify](https://github.com/marlenastein/marlenastein.github.io/blob/main/spotify.png?raw=true)
+These are the top seven most streamed songs on Spotify ever. B stands for billion streams.
