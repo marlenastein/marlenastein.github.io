@@ -21,3 +21,8 @@ In the article "How Nathan Chen Won Gold in Men's Figure Skating" by The New Yor
 
 ## History of Lehigh University Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bozgsWNBp0IwY7brpVfMHMFNPTzPUiCU6i3o7Gy5fBY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Percentages of Students per College in 2021
+![College Percentages](https://github.com/marlenastein/marlenastein.github.io/blob/main/percentagescollege.png?raw=true)
+
+
