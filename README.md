@@ -21,7 +21,7 @@ In the article [How Nathan Chen Won Gold in Men's Figure Skating](https://www.ny
 
 ## History of Lehigh University Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bozgsWNBp0IwY7brpVfMHMFNPTzPUiCU6i3o7Gy5fBY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-Between 1865 to today, Lehigh University transformed from a thought to a reality. From Lehigh's first class, to deciding on Clutch as the mascot, this timeline shows some of the pivotal moments that turned Lehigh into the school it is today.  
+Between 1865 to today, Lehigh University has transformed from a thought into a reality. From Lehigh's first class in 1866, to deciding on Clutch as the mascot in 1995, this timeline shows some of the pivotal moments that turned Lehigh into the school it is today. Being able to view the history of Lehigh as a timeline is an informative way to learn about the history of the school and see the biggest changes between the 1800s and today.
 
 ## Percentages of Students per College in 2021
 ![College Percentages](https://github.com/marlenastein/marlenastein.github.io/blob/main/collegepercentages.png?raw=true)
