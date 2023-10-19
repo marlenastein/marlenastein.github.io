@@ -31,4 +31,4 @@ Between 1865 to today, Lehigh University has transformed from a thought into a r
 These are the top seven most streamed songs on Spotify ever. B stands for billion streams.
 
 ## Percentages of Students in Lehigh's Colleges
-[Percentages](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/9b6ff080497c59c5fe02fe4a743f61210f46d0c2/Percentages_of_Student_in_Lehigh's_Colleges_Arts_%26_Sciences_Business_Engineering_chartbuilder.svg)
+![Percentages](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/9b6ff080497c59c5fe02fe4a743f61210f46d0c2/Percentages_of_Student_in_Lehigh's_Colleges_Arts_%26_Sciences_Business_Engineering_chartbuilder.svg)
