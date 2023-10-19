@@ -35,3 +35,7 @@ These are the top seven most streamed songs on Spotify ever. B stands for billio
 
 ## Life Satisfaction in Cantril Ladder
 ![Life Satisfaction](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/8a74e7eac0e96c0bb76d5442ffef9f8c41e5e98b/Life_Satisfaction_in_Cantril_Ladder_Life_satisfaction_in_Cantril_Ladder_chartbuilder.svg)
+
+## Average Time Americans Spend Sleeping
+![Sleep](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/2e4f52bb123dd1d9a40225fbe49d0e5e5a37646a/Average_Time_Americans_Spend_Sleeping_per_Year_Avg_Hours_of_Sleep_chartbuilder.svg)
+
