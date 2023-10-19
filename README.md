@@ -32,3 +32,6 @@ These are the top seven most streamed songs on Spotify ever. B stands for billio
 
 ## Percentages of Students in Lehigh's Colleges
 ![Percentages](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/cc8da52e13afc4de316dc64d6cde8e1721b7a07e/Percentages_of_Students_in_Lehigh's_Colleges_Arts_%26_Sciences_Business_Engineering_chartbuilder.svg)
+
+## Life Satisfaction in Cantril Ladder
+![Life Satisfaction](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/8a74e7eac0e96c0bb76d5442ffef9f8c41e5e98b/Life_Satisfaction_in_Cantril_Ladder_Life_satisfaction_in_Cantril_Ladder_chartbuilder.svg)
