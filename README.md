@@ -37,5 +37,5 @@ These are the top seven most streamed songs on Spotify ever. B stands for billio
 ![Life Satisfaction](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/8a74e7eac0e96c0bb76d5442ffef9f8c41e5e98b/Life_Satisfaction_in_Cantril_Ladder_Life_satisfaction_in_Cantril_Ladder_chartbuilder.svg)
 
 ## Average Time Americans Spend Sleeping
-![Sleep](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/2e4f52bb123dd1d9a40225fbe49d0e5e5a37646a/Average_Time_Americans_Spend_Sleeping_per_Year_Avg_Hours_of_Sleep_chartbuilder.svg)
-
+![Sleep](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/25f3452033c671ccd2b17d9157b8a7bb570bf796/Average_Time_Americans_Spend_Sleeping_per_Year_Avg_Hours_of_Sleep_chartbuilder-2.svg)
+This scatter plot represents that average amount of time all Americans spending sleeping per year. This includes all days of the year, including weekdays, weekends and holidays. While the average person may not get over 8 hour of sleep every night, they may sleep an average of 8 hours per night over the course of a year.
