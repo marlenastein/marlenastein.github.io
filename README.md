@@ -46,3 +46,5 @@ This scatter plot represents the average amount of time all Americans spending s
 
 ## Map of 2023 World Top 6 Best Beaches
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1o-_JoRGpGvY5AYM7dMhe1ezBcKj7kXE&ehbc=2E312F" width="640" height="480"></iframe>
+
+US News ranked the top beaches around the world for the year 2023. These beaches are spread throughout the world, with locations ranging from the Atlantic Ocean, to the Pacific Ocean and the Indian Ocean. Most of these countries are famous for their beaches, so the top 6 beaches did not come as a surprise.
