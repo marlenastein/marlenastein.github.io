@@ -43,3 +43,6 @@ This scatter plot represents the average amount of time all Americans spending s
 
 ## Map of 2019 World Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ubhSOkrFewikHaB5GJGgo1FQ5C0maEU&ehbc=2E312F" width="640" height="480"></iframe>
+
+## World's Top 6 Best Beaches
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1o-_JoRGpGvY5AYM7dMhe1ezBcKj7kXE&ehbc=2E312F" width="640" height="480"></iframe>
