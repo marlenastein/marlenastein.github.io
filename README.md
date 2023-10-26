@@ -42,4 +42,4 @@ These are the top seven most streamed songs on Spotify ever. B stands for billio
 This scatter plot represents the average amount of time all Americans spending sleeping per year. This includes all days of the year, including weekdays, weekends and holidays from 2007-2017. While the average person may not get over 8 hours of sleep every night, they may sleep an average of 8 hours per night over the course of a year. This data is from [Data World.](https://data.world/makeovermonday/2019w23/workspace/file?filename=Time+Americans+Spend+Sleeping.xlsx)
 
 ## Map of 2019 World Top 20 Cycling Cities
-![cycling](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ubhSOkrFewikHaB5GJGgo1FQ5C0maEU&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ubhSOkrFewikHaB5GJGgo1FQ5C0maEU&ehbc=2E312F" width="640" height="480"></iframe>
