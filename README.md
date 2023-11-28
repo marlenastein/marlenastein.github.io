@@ -14,10 +14,11 @@ This data shows the data of student enrollment at Lehigh categorized by state. T
 ## Successfully Completed Jumps in 2022 Male Figuring Skating Olympics
 ![Skating](https://github.com/marlenastein/marlenastein.github.io/blob/main/Skating.png?raw=true)
 
-In the article [How Nathan Chen Won Gold in Men's Figure Skating](https://www.nytimes.com/interactive/2022/02/10/sports/olympics/nathan-chen-jumps.html) by The New York Times, the authors discuss the performances from the top male figure skaters at the 2022 Olympic Games in Beijing. One of the catagorizes the skaters were compared by was the number of successfully completed jumps in each of their routines. According to their data, Nathan Chen had the most successfully completed jumps in his skating routine. While Chen had 10 successful jumps, his opponents only had between six and nine successful jumps during their routines. Additionally, completed jumps raise a skater's score, while an incomplete jump lower their overall score of their routine. Since Chen had the most successfully completed jumps compared to his opponents, this helped Chen come in first place and led to his win of the gold medal.
+In the article [How Nathan Chen Won Gold in Men's Figure Skating](https://www.nytimes.com/interactive/2022/02/10/sports/olympics/nathan-chen-jumps.html) by The New York Times, the authors discuss the performances from the top male figure skaters at the 2022 Olympic Games in Beijing. One of the categories the skaters were compared by was the number of successfully completed jumps in each of their routines. According to their data, Nathan Chen had the most successfully completed jumps in his skating routine. While Chen had 10 successful jumps, his opponents only had between six and nine successful jumps during their routines. Additionally, completed jumps raise a skater's score, while an incomplete jump lowers their overall score of their routine. Since Chen had the most successfully completed jumps compared to his opponents, this helped Chen come in first place and led to his win of the gold medal.
 
 ## Lehigh-Lafayette Rivalry Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G284o63ZxEj6er-yeWLIqiXg97Y1jQc2zsNi26TUI_0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+This timeline demonstrates how the Lehigh-Lafayette rivalry became as intense as it is today. From 1884 to today, the rivalry has remained as strong as ever despite the amount of time it's been since the first game.
 
 ## History of Lehigh University Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bozgsWNBp0IwY7brpVfMHMFNPTzPUiCU6i3o7Gy5fBY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -25,16 +26,19 @@ Between 1865 to today, Lehigh University has transformed from a thought into a r
 
 ## Percentages of Students per College in 2021
 ![College Percentages](https://github.com/marlenastein/marlenastein.github.io/blob/main/collegepercentages.png?raw=true)
+This graph is a visual representation of the percentages of students in each of Lehigh's colleges and programs in 2021.
 
 ## Most Streamed Songs on Spotify
 ![Spotify](https://github.com/marlenastein/marlenastein.github.io/blob/main/spotify.png?raw=true)
-These are the top seven most streamed songs on Spotify ever. B stands for billion streams.
+This graph demonstrates the top seven most streamed songs on Spotify ever. B stands for billion streams.
 
 ## Percentages of Students in Lehigh's Colleges
 ![Percentages](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/cc8da52e13afc4de316dc64d6cde8e1721b7a07e/Percentages_of_Students_in_Lehigh's_Colleges_Arts_%26_Sciences_Business_Engineering_chartbuilder.svg)
+This graph is a visual representation of the percentages of students in Lehigh's Arts & Sciences, Business and Engineering colleges.
 
 ## Life Satisfaction in Cantril Ladder
 ![Life Satisfaction](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/8a74e7eac0e96c0bb76d5442ffef9f8c41e5e98b/Life_Satisfaction_in_Cantril_Ladder_Life_satisfaction_in_Cantril_Ladder_chartbuilder.svg)
+This scatterplot helps viewers visualize life satisfaction in the cantril ladder in GDP per capita.
 
 ## Average Time Americans Spend Sleeping
 ![Sleep](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/5babd3c9e59c9560eb07b5508b3c561a3fed2349/Average_Time_Americans_Spend_Sleeping_per_Year_Avg_Hours_of_Sleep_chartbuilder-3.svg)
@@ -43,6 +47,7 @@ This scatter plot represents the average amount of time all Americans spending s
 
 ## Map of 2019 World Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ubhSOkrFewikHaB5GJGgo1FQ5C0maEU&ehbc=2E312F" width="640" height="480"></iframe>
+This map is labeled with the world's top 20 cycling cities in 2019.
 
 ## Map of 2023 World Top 6 Best Beaches
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1o-_JoRGpGvY5AYM7dMhe1ezBcKj7kXE&ehbc=2E312F" width="640" height="480"></iframe>
