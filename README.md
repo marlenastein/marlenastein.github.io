@@ -30,7 +30,7 @@ This graph is a visual representation of the percentages of students in each of 
 
 ## Most Streamed Songs on Spotify
 ![Spotify](https://github.com/marlenastein/marlenastein.github.io/blob/main/spotify.png?raw=true)
-This graph demonstrates the top seven most streamed songs on Spotify ever. B stands for billion streams.
+This graph demonstrates the top seven most streamed songs on Spotify ever. B stands for billion streams. These are the most streamed songs on Spotify in the world, not just in the United States. All of the 50 most streamed songs on Spotify are in English, which means that people that speak english and/or people from english speaking countries like the United States must use Spotify more than any other non-english speaking country. I found my information [here.](https://chartmasters.org/spotify-most-streamed-songs/)
 
 ## Percentages of Students in Lehigh's Colleges
 ![Percentages](https://raw.githubusercontent.com/marlenastein/marlenastein.github.io/cc8da52e13afc4de316dc64d6cde8e1721b7a07e/Percentages_of_Students_in_Lehigh's_Colleges_Arts_%26_Sciences_Business_Engineering_chartbuilder.svg)
